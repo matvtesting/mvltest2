@@ -27,7 +27,7 @@ page_sections:
   cta:
     enabled: true
     link_url: https://github.com/forestryio/ubuild-jekyll
-    link_text: 'See on GitHub '
+    link_text: Hide
   image:
     image: "/uploads/2018/06/21/product-shot-1.png"
     alt_text: Product Shot
